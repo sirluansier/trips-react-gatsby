@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Thera, Greece",
+        "name": "Thera, Greece",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Slovenia",
+        "name": "Slovenia",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "La Spezia, Italy",
+        "name": "La Spezia, Italy",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Indonesia",
+        "name": "Indonesia",
+        "button": "View Destination"
+    }
+]
